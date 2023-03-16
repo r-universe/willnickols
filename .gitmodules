@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "chyper"]
+	path = chyper
+	url = https://github.com/willnickols/chyper
+	shallow = true
+	registered = true
